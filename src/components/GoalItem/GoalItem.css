@@ -1,0 +1,12 @@
+.goal-item {
+    background: #5a01b3;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    color: white;
+    cursor: pointer;
+    margin: 1rem 0;
+    padding: 1rem 2rem;
+}
+
+.goal-item:hover{
+    background: #ff0000;
+}
